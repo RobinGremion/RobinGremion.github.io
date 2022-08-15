@@ -52,7 +52,9 @@ cd ex08
 echo "find . -type f \( -name "*~" -o -name "\#*\#" \) -print -delete" > clean
 echo "Ne pas oublier de faire l'exercice 07"
 echo "patch b < sw.diff"
+echo "fais aussi le kinit bg"
 echo "bisous"
+cd ..
 cd ..
 cd shell01
 mkdir ex01 ex02 ex03 ex04
